@@ -206,17 +206,20 @@ git push -u origin main
 5. Set up HTTPS certificates
 6. Review security configurations
 
-## 📄 License
-
-[Add your license information here]
 
 ## 👤 Author
 
-[Add your name and contact information]
+Nagaraj T 
+9789672327
 
 ## 🤝 Contributing
 
-[Add contribution guidelines if applicable]
+Gowrinath
+Jayasurya
+Vignesh
+Jeevadharshini
+Shanmugapriya
+Tamilselvi
 
 ## 📞 Support
 
